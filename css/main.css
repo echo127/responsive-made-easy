@@ -98,7 +98,7 @@ section{
     }
     .split > * + *{
         margin-top: 0;
-        margin-left: 1em;
+        margin-left: 2em;
     }
 
 }

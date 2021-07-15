@@ -2,17 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b6a193fc-aebb-4004-a22d-e37c1c3b987e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/CSS-Learning.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/main.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/flexbox-challenge-4.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/browser-firefox.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/image-01.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/image-02.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/main.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,7 +57,7 @@
       <updated>1626313645128</updated>
       <workItem from="1626313646228" duration="9921000" />
       <workItem from="1626324054308" duration="1411000" />
-      <workItem from="1626333404519" duration="2316000" />
+      <workItem from="1626333404519" duration="3400000" />
     </task>
     <servers />
   </component>
